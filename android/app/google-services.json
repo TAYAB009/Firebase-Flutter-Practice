@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964211588438",
+    "project_id": "auth-ik-pjt",
+    "storage_bucket": "auth-ik-pjt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964211588438:android:9a5695e753e01fb4c3eaf7",
+        "android_client_info": {
+          "package_name": "com.example.auth_pjt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjECWXGLhhPW39yQv3XTHNyVaMM--Ug40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964211588438:android:55f67eb8f33a1330c3eaf7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_all"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjECWXGLhhPW39yQv3XTHNyVaMM--Ug40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
